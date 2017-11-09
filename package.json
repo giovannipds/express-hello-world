@@ -1,0 +1,21 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Express.js Hello World of the MongoDB for Node.js Developers course, MongoDB University",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "mongodb",
+    "node",
+    "nodejs"
+  ],
+  "author": "Giovanni Pires da Silva <giovannipds@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
