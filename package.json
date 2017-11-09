@@ -17,5 +17,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovannipds/express-hello-world.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giovannipds/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/giovannipds/express-hello-world#readme"
 }
