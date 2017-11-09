@@ -6,10 +6,10 @@ app.get('/', function(req, res) {
 })
 
 app.use(function(req, res) {
-	res.sensStatus(404);
+	res.sendStatus(404);
 })
 
-var server = app.listen(3000, function()) {
+var server = app.listen(3000, function() {
 	var port = server.address().port;
 	console.log('Express server listening on port %s', port);
-}
+})
